@@ -6,7 +6,7 @@ https://cognitiveclass.ai/courses/data-privacy
 
 ## Module 1:
 ***An overview of privacy laws in Canada***
-***Case Study***: Student loans data breach (Canada) - A breach involving the personal information of about more than half a million clients of Human Resources and Skills Development Canada (HRSDC) and 250 departmental employees
+### Case Study ***: Student loans data breach (Canada) - A breach involving the personal information of about more than half a million clients of Human Resources and Skills Development Canada (HRSDC) and 250 departmental employees
 
 ## Module 2:
 
